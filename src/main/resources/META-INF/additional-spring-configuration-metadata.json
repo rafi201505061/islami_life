@@ -1,0 +1,17 @@
+{"properties": [{
+  "name": "blockDuration",
+  "type": "java.lang.String",
+  "description": "A description for 'blockDuration'"
+}]}{"properties": [{
+  "name": "max-consecutive-otp-tries",
+  "type": "java.lang.String",
+  "description": "A description for 'max-consecutive-otp-tries'"
+}]}{"properties": [{
+  "name": "minimum-password-length",
+  "type": "java.lang.String",
+  "description": "A description for 'minimum-password-length'"
+}]}{"properties": [{
+  "name": "security-token",
+  "type": "java.lang.String",
+  "description": "A description for 'security-token'"
+}]}
